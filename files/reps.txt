@@ -1,0 +1,11 @@
+sudo apt update -y
+sudo apt upgrade -y
+sudo apt-get dist-upgrade -y
+sudo do-release-upgrade -d
+dpkg --add-architecture i386
+add-apt-repository "deb http://archive.canonical.com/ $(lsb_release -sc) partner"
+sudo add-apt-repository ppa:gezakovacs/ppa
+sudo apt-get update -y
+sudo apt upgrade -y
+sudo apt autoremove -y
+

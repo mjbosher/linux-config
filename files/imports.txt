@@ -1,0 +1,44 @@
+sudo apt install python3-tk
+sudo apt install python3-pyside
+sudo apt install python3-pyqt5
+pip3 install python-nmap
+pip install Pillow
+sudo apt install python3-sqlalchemy
+sudo apt install python3-numpy
+sudo apt install python3-twisted
+sudo apt python3 install bs4
+sudo apt install python3-scipy
+sudo apt install python3-matplotlib
+pip3 install django
+sudo apt install python3-tk
+sudo apt install python3-nltk
+sudo apt install python3-nose
+sudo apt install python3-sympy
+pip install simplejson
+sudo apt install python3-ebooklib
+sudo apt install python3-cryptography
+sudo apt install python3-gevent
+pip3 install PyExecJS
+sudo apt install python3-ipython
+pip3 install sh
+pip3 install docopt
+pip3 install django
+pip3 install pillow
+sudo apt install python3-scrapy
+sudo apt install python3-pyaudio
+pip3 install pyautogui
+pip3 install http.cookiejar
+sudo apt-get install python-setuptools
+pip3 install python-for-android
+pip3 install --upgrade pyinstaller
+pip3 install py2app
+sudo apt-get install python3-matplotlib
+sudo apt-get install python-dev python-numpy python-numpy-dev python-setuptools python-numpy-dev python-scipy  g++
+sudo apt install python3-sklearn
+pip3 install Cython
+pip3 install utils
+pip install fs
+pip install dj-libcloud
+pip install bs4
+pip3 install bs4
+

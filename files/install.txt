@@ -1,0 +1,53 @@
+unetbootin
+filezilla
+xdotool
+alien
+wmctrl
+guake
+dolphin
+gedit
+thunderbird
+firefox
+okular 
+qbittorrent
+vector
+conky
+fbreader
+mpv
+bleachbit
+clamtk
+virtualbox
+synapse
+vlc
+gimp
+audacity
+gnome-software
+fcitx.bin
+calibre
+brasero
+codelite
+ettercap-text-only
+atril
+driftnet
+synaptic
+qt4-qtconfig
+libreoffice
+wireshark-qt
+openshot
+galculator
+gdebi
+gnome-tweak-tool
+libavcodec-extra
+-f dpkg --add-architecture i386
+kazam
+unzip -y
+woeusb -y
+virtualenv
+python3-pip
+python-pip
+libc6:i386 libncurses5:i386 libstdc++6:i386 lib32z1 -y
+git
+virtualenv
+openssh-server
+x11vnc
+net-tools

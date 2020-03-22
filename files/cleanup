@@ -1,0 +1,7 @@
+if [ -f "$HOME/.laptopkb/laptopkb-disable.sh" ];
+then
+       . "$HOME/.laptopkb/laptopkb-disable.sh"
+else
+	echo "KeyBoard not disable" > /dev/null
+fi
+python /tilda.py > /dev/null

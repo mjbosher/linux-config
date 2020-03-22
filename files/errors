@@ -1,0 +1,1 @@
+['PyInstaller', 'nmap', 'utils', 'IPython', 'fs', 'http.client', 'libcloud', 'cython', 'execjs', 'twisted', 'scrapy', 'gevent', 'sympy', 'pyautogui', 'sqlalchemy', 'pythonforandroid', 'http.cookiejar', 'matplotlib', 'ebooklib', 'tkinter', 'pyaudio', 'py2app', 'django', 'psutil', 'sh', 'nose', 'requests', 'docopt', 'nltk', 'sklearn']

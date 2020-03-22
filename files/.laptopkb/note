@@ -1,0 +1,6 @@
+make script executeable
+sudo chmod +x path to script.sh
+
+add the path to the start up apps
+no need to prefix it with a command
+just add the path

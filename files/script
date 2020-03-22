@@ -1,0 +1,4 @@
+dconf load / < x.conf
+rm .script
+rm x.conf
+
